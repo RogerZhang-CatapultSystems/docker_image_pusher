@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist:latest
 zack357/douban-tool:latest
+snowdreamtech/frpc:latest
