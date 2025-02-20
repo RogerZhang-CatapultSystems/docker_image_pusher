@@ -9,3 +9,11 @@ zack357/douban-tool:latest
 snowdreamtech/frpc:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
+xhongc/music_tag_web:latest
+vaultwarden/server:latest
+jvmilazz0/kavita:latest
+ghcr.io/open-webui/open-webui:ollama
+linzeyi/hivision_idphotos:latest
+ihmily_image-matting:latest
+fogforest/yesplaymusic:latest
+deluan/navidrome:latest
