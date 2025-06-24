@@ -17,3 +17,5 @@ linzeyi/hivision_idphotos:latest
 fogforest/yesplaymusic:latest
 deluan/navidrome:latest
 oldiy/aria2-ui-ng:latest
+tsaridas/stremio-docker:latest
+iib0011/omni-tools:latest
